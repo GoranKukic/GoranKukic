@@ -13,7 +13,8 @@ I live in Novi Sad. I like nature, cycling, being outside, and coding.
 
 
 ### My Favorite Project Repos
+* <a href="https://github.com/GoranKukic/codingPractice/tree/main/18-company-web-presentation">Company web presentation</a> - Responsive web page created by me from 0
 * <a href="https://github.com/GoranKukic/codingPractice/tree/main/16-calculator">Calculator</a> - JavaScript Calculator
-* <a href="https://github.com/GoranKukic/codingPractice/tree/main/17-100-godina-lovackog-drustva-glozan">100 years of hunting association in Glozan</a> - Web presentation in honor of hunting association aniversary
+
 
 ![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoranKukic&show_icons=true&theme=dark)
