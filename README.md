@@ -16,7 +16,7 @@ I live in Novi Sad. I like nature, cycling, being outside, and coding.
 
 * <a href="https://github.com/GoranKukic/elevators">Elevators</a> - System of 3 elevators builted with React
 * <a href="https://github.com/GoranKukic/codingPractice/tree/main/18-company-web-presentation">Company web presentation</a> - Responsive web page created by me from 0
-* <a href="https://github.com/GoranKukic/codingPractice/tree/main/16-calculator">Calculator</a> - JavaScript Calculator
-
+* <a href="https://github.com/GoranKukic/codingPractice/tree/main/16-calculator">Calculator</a> - Calculator builted in JavaScript
+ 
 
 ![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoranKukic&show_icons=true&theme=dark)
