@@ -21,3 +21,10 @@ I live in Novi Sad. I like nature, cycling, being outside, and coding.
  
 
 ![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoranKukic&show_icons=true&theme=dark)
+
+<div style='display: flex; align-items: center'>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoranKukic&show_icons=true&locale=en&layout=compact" alt="GoranKukic" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoranKukic&" alt="GoranKukic" />
+  </div>
+  <a href="https://www.buymeacoffee.com/gorankukic"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imrancodes" /></a>
