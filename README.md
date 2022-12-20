@@ -18,9 +18,6 @@ I live in Novi Sad. I like nature, cycling, being outside, and coding.
 * <a href="https://github.com/GoranKukic/elevators">Elevators</a> - System of 3 elevators builted with React
 * <a href="https://github.com/GoranKukic/dashboard-app">Dashboard App</a> - web application that represents a dashboard
 * <a href="https://github.com/GoranKukic/is-point-in-polygon-app">Check is the point inside of a polygon</a> - This App is checking whether is the point inside a polygon or not
- 
-
-![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoranKukic&show_icons=true&theme=dark)
 
 <div style='display: flex; align-items: center'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoranKukic&show_icons=true&locale=en&layout=compact" alt="GoranKukic" />
