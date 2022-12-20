@@ -20,9 +20,8 @@ I live in Novi Sad. I like nature, cycling, being outside, and coding.
 * <a href="https://github.com/GoranKukic/is-point-in-polygon-app">Check is the point inside of a polygon</a> - This App is checking whether is the point inside a polygon or not
 
 <div style='display: flex; align-items: center'>
- <div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoranKukic&show_icons=true&locale=en&layout=compact" alt="GoranKukic" />  </div>
- </br>
+ <div style="margin-bottom: 10px;">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoranKukic&show_icons=true&locale=en&layout=compact" alt="GoranKukic" /> 
  <div>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoranKukic&" alt="GoranKukic" /></div>
  </div>
