@@ -9,7 +9,7 @@ I like nature, cycling, being outside, and coding.
 * 🌍  I'm based in Novi Sad, Serbia
 * 🖥️  See my portfolio at [Website](https://gorankukic.netlify.app/)
 * ✉️  You can contact me at [goranikukic@gmail.com](mailto:goranikukic@gmail.com)
-* 🧠  I'm learning Next.js, React and TypeScript
+* 🧠  I'm currently learning Next.js
 
 ### Skills
 
