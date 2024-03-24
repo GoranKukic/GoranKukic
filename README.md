@@ -7,7 +7,7 @@ Frontend Developer
 I like nature, cycling, being outside, and coding.
 
 * 🌍  I'm based in Novi Sad, Serbia
-* 🖥️  See my portfolio at [Website](https://gorankukic.netlify.app/)
+* 🖥️  See my portfolio at [Website](https://gorankukic.vercel.app/)
 
 ### Skills
 
