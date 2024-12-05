@@ -1,7 +1,7 @@
 # Frontend Developer  
 
 🌍 Based in Novi Sad, Serbia  
-🌱 I love nature, cycling, and coding beautiful web experiences.  
+🌱 I love nature, cycling, and coding  
 🖥️ [Check out my portfolio](https://gorankukic.vercel.app/)  
 
 ### Skills  
