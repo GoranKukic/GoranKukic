@@ -1,10 +1,4 @@
-# Frontend Developer  
-
-🌍 Based in Novi Sad, Serbia  
-🌱 I love nature, cycling, and coding  
-🖥️ [Check out my portfolio](https://gorankukic.vercel.app/)  
-
-### Skills  
+# Stack  
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -14,10 +8,7 @@
   <a href="https://pixijs.com/" target="_blank"><img src="https://www.svgrepo.com/show/354188/pixijs.svg" width="36" height="36" alt="PixiJS" /></a>
 </p>
 
-### Socials  
+### [Check out my portfolio](https://gorankukic.vercel.app/)
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/kukicgoran" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
 
 
